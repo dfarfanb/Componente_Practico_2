@@ -1,3 +1,0 @@
-git add Componente_Practico_2/Tipos_Requerimientos/CP2_Tipos_Requerimientos_Grupo3.pdf
-git commit -m "Fix: reemplazar PDF dañado por el archivo correcto"
-git push origin main
